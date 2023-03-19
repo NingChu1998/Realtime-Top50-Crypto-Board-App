@@ -10,3 +10,7 @@ This Crypto Board provides a simple  way for users to access real-time and histo
 ## Technology
 * Axios: The app uses Axios, a popular JavaScript library, to interact with the Coin Gecko API and retrieve cryptocurrency price and market data.
 * ReactJs: The app is built using standard web technologies, making it easy to deploy and maintain.
+
+## Depolyment
+* Using Vercel to depoly this application
+[Realtime-Top50-Crypto-Board-App](https://realtime-top50-crypto-board-app.vercel.app/)
